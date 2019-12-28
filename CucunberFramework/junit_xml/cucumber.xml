@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="1" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0">
+<testcase classname="Create  Account of Gmail" name="Create new gmail account" time="0">
+<failure message="The scenario has pending or undefined step(s)"><![CDATA[Given open browser and send url.............................................undefined
+When title of login page is Gmail login.....................................undefined
+Then user clicks on Create account button...................................undefined
+Then user enters "Deoraj" and "Bisen" and "deoraj.95" and "gsit1234" and "gsit1234".undefined
+Then user is click on next button...........................................undefined
+]]></failure>
+</testcase>
+</testsuite>
